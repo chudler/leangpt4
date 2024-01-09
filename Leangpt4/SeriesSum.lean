@@ -1,5 +1,4 @@
 import Leangpt4.Common
-import Mathlib.Data.Finset.Basic
 import Mathlib.Algebra.BigOperators.Finprod
 import Mathlib.Algebra.BigOperators.Basic
 
